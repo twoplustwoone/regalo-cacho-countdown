@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-  console.log({ moment });
   const date = generateRandomDate();
   appendToTimeElement(date);
 });
